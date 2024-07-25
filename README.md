@@ -27,3 +27,14 @@ rafce
 4. git push -u origin main -> 로컬 저장소의 변경 사항을 원격 저장소(깃허브)에 업로드.
 
 스테이징 영역: 깃에서 제공하는 임시 저장공간.
+
+## lazy
+
+1. 동기적 (synchronous) :작업이 순차적으로 실행되며, 이전 작업이 끝나야 다음 작업 수행.
+
+console.log('첫번째 작업 시작');
+console.log('두번째 작업 시작');
+console.log('세번째 작업 시작');
+console.log('네번째 작업 시작');
+
+2. 비동기적 (asynchronous) :작업이 독립적으로 실행되며, 이전 작업이 끝나지 않아도 작업 수행.
