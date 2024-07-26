@@ -3,7 +3,8 @@ import Main from '../components/section/Main'
 
 const Developer = () => {
   return (
-    <Main>Developer</Main>
+    <Main title=" 개발자" description="YouTube">
+      Developer</Main>
   )
 }
 

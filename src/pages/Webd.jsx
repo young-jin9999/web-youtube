@@ -3,7 +3,8 @@ import Main from '../components/section/Main'
 
 const Webd = () => {
   return (
-    <Main>Webd</Main>
+    <Main title="웹디자인" description="YouTube">
+      Webd</Main>
   )
 }
 

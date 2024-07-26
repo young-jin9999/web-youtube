@@ -4,7 +4,9 @@ import Main from '../components/section/Main'
 const Channel = () => {
   return (
     
-    <Main>Channel</Main>
+    <Main title="Channel" description="YouTube">
+      Channel
+    </Main>
   )
 }
 

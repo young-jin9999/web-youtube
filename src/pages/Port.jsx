@@ -3,7 +3,8 @@ import Main from '../components/section/Main'
 
 const Port = () => {
   return (
-    <Main>Port</Main>
+    <Main title="포트폴리오" description="YouTube">
+      Port</Main>
   )
 }
 
