@@ -5,7 +5,7 @@ const Footer = () => {
     <footer id='footer' role='contentinfo'>
       <a href="https://github.com/young-jin9999/web-youtube"
          rel='noopenner noreferrer'
-         target='_blank'>github
+         target='_blank'>
       </a>
     </footer>
   )
