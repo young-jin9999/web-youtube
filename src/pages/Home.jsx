@@ -1,7 +1,7 @@
 import React from 'react'
 import Main from '../components/section/Main'
 import Today from '../components/contents/Today'
-import Developer from '../components/contents/Developer'
+import Music from '../components/contents/Music'
 import Webd from '../components/contents/Webd'
 import Website from '../components/contents/Website'
 import Gsap from '../components/contents/Gsap'
@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <Main title="Home" description="YouTube">
       <Today></Today>
-      <Developer></Developer>
+      <Music></Music>
       <Webd></Webd>
       <Website></Website>
       <Gsap></Gsap>
